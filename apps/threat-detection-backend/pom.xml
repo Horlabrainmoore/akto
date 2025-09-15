@@ -6,7 +6,7 @@
 
     <properties>
         <jetty.version>9.4.27.v20200227</jetty.version>
-        <vertex.version>4.5.11</vertex.version>
+        <vertex.version>4.5.21</vertex.version>
     </properties>
 
     <parent>
