@@ -6,7 +6,7 @@
 
     <properties>
         <jetty.version>9.4.27.v20200227</jetty.version>
-        <vertex.version>4.5.11</vertex.version>
+        <vertex.version>4.5.22</vertex.version>
     </properties>
 
     <parent>
@@ -23,7 +23,7 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
-            <version>3.12.0</version>
+            <version>3.18.0</version>
         </dependency>
         <dependency>
             <groupId>com.akto.libs.dao</groupId>
